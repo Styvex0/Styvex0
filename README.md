@@ -8,6 +8,15 @@
 
 ###
 
+<h3 align="center">About and more...</h3>
+
+###
+
+<h6 align="center">🔭 I’m currently working on<br>> Ap3x - Multitool & (/) Bot Team <br><br>👯 I’m looking to collaborate on<br>> (/) Bot Team - Discord!<br><br>🌱 I’m currently learning<br>> C++ & Unity<br><br>⚡ Fun fact<br>> The sky is not blue but yellow</h6>
+
+
+### 
+
 <h2 align="center">Code Languages!</h2>
 
 ###
